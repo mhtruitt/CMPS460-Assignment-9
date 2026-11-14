@@ -1,0 +1,62 @@
+[
+  { "id": "kc", "name": "Chiefs", "city": "Kansas City", "conference": "AFC",
+    "players": [
+      { "id": "kc1", "name": "Marcus Alden", "position": "QB", "number": 12 },
+      { "id": "kc2", "name": "Devon Pruitt", "position": "WR", "number": 11 },
+      { "id": "kc3", "name": "Luis Ferrante", "position": "DE", "number": 95 } ] },
+  { "id": "buf", "name": "Bills", "city": "Buffalo", "conference": "AFC",
+    "players": [
+      { "id": "buf1", "name": "Caleb Whitmore", "position": "QB", "number": 17 },
+      { "id": "buf2", "name": "Tyrese Hollis", "position": "RB", "number": 32 },
+      { "id": "buf3", "name": "Owen Barrett", "position": "LB", "number": 49 } ] },
+  { "id": "bal", "name": "Ravens", "city": "Baltimore", "conference": "AFC",
+    "players": [
+      { "id": "bal1", "name": "Jamal Okafor", "position": "RB", "number": 22 },
+      { "id": "bal2", "name": "Ethan Brandt", "position": "TE", "number": 89 },
+      { "id": "bal3", "name": "Darius Keene", "position": "CB", "number": 24 } ] },
+  { "id": "cin", "name": "Bengals", "city": "Cincinnati", "conference": "AFC",
+    "players": [
+      { "id": "cin1", "name": "Trevor Lindqvist", "position": "QB", "number": 9 },
+      { "id": "cin2", "name": "Andre Mbeki", "position": "WR", "number": 5 },
+      { "id": "cin3", "name": "Noah Castellano", "position": "OT", "number": 73 } ] },
+  { "id": "mia", "name": "Dolphins", "city": "Miami", "conference": "AFC",
+    "players": [
+      { "id": "mia1", "name": "Rafael Quintero", "position": "WR", "number": 10 },
+      { "id": "mia2", "name": "Jordan Ashby", "position": "QB", "number": 1 },
+      { "id": "mia3", "name": "Kevin Nakamura", "position": "S", "number": 29 } ] },
+  { "id": "hou", "name": "Texans", "city": "Houston", "conference": "AFC",
+    "players": [
+      { "id": "hou1", "name": "Mason Drury", "position": "QB", "number": 7 },
+      { "id": "hou2", "name": "Isaiah Coleman", "position": "WR", "number": 13 },
+      { "id": "hou3", "name": "Victor Salazar", "position": "DT", "number": 97 } ] },
+  { "id": "phi", "name": "Eagles", "city": "Philadelphia", "conference": "NFC",
+    "players": [
+      { "id": "phi1", "name": "Julian Reyes", "position": "QB", "number": 1 },
+      { "id": "phi2", "name": "Malik Townsend", "position": "WR", "number": 6 },
+      { "id": "phi3", "name": "Griffin O'Neal", "position": "C", "number": 62 } ] },
+  { "id": "dal", "name": "Cowboys", "city": "Dallas", "conference": "NFC",
+    "players": [
+      { "id": "dal1", "name": "Brandon Pelletier", "position": "QB", "number": 4 },
+      { "id": "dal2", "name": "Cedric Lowe", "position": "WR", "number": 88 },
+      { "id": "dal3", "name": "Anthony Vega", "position": "LB", "number": 11 } ] },
+  { "id": "sf", "name": "49ers", "city": "San Francisco", "conference": "NFC",
+    "players": [
+      { "id": "sf1", "name": "Christian Mendel", "position": "RB", "number": 23 },
+      { "id": "sf2", "name": "Hayden Sutter", "position": "TE", "number": 85 },
+      { "id": "sf3", "name": "Elijah Park", "position": "DE", "number": 97 } ] },
+  { "id": "gb", "name": "Packers", "city": "Green Bay", "conference": "NFC",
+    "players": [
+      { "id": "gb1", "name": "Tobias Hartwell", "position": "QB", "number": 10 },
+      { "id": "gb2", "name": "Xavier Dunmore", "position": "WR", "number": 17 },
+      { "id": "gb3", "name": "Samuel Ibarra", "position": "CB", "number": 21 } ] },
+  { "id": "det", "name": "Lions", "city": "Detroit", "conference": "NFC",
+    "players": [
+      { "id": "det1", "name": "Declan Marsh", "position": "QB", "number": 16 },
+      { "id": "det2", "name": "Terrance Boyd", "position": "RB", "number": 28 },
+      { "id": "det3", "name": "Ivan Petrov", "position": "OT", "number": 69 } ] },
+  { "id": "sea", "name": "Seahawks", "city": "Seattle", "conference": "NFC",
+    "players": [
+      { "id": "sea1", "name": "Walker Dennison", "position": "WR", "number": 14 },
+      { "id": "sea2", "name": "Marcellus Grant", "position": "S", "number": 31 },
+      { "id": "sea3", "name": "Peter Lindgren", "position": "K", "number": 3 } ] }
+]
